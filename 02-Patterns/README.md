@@ -43,9 +43,7 @@
      ABCDE
 ```
 
-
 <br></br>
-
 
 # Star / Asterisk Patterns
 
@@ -159,7 +157,7 @@
 ```
 <br></br>
 
-[010. View Code](https://github.com/yashchittora/C-Practice-Problems/blob/main/02-Patterns/star-10.c)
+[10. View Code](https://github.com/yashchittora/C-Practice-Problems/blob/main/02-Patterns/star-10.c)
 ```text
 10.      * 
         * * 
@@ -169,7 +167,15 @@
 ```
 <br></br>
 
-
+[11. View Code](https://github.com/yashchittora/C-Practice-Problems/blob/main/02-Patterns/star-11.c)
+```text
+11.  * * * * * 
+      * * * * 
+       * * * 
+        * * 
+         * 
+```
+<br></br>
 
 # Number Patterns
 
