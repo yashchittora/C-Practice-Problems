@@ -46,7 +46,7 @@ Print these patterns using loops:
 
 <br></br>
 
----
+
 # Star / Asterisk Patterns
 
 [01. View Code](https://github.com/yashchittora/C-Practice-Problems/blob/main/02-Patterns/star-1.c)
@@ -170,7 +170,7 @@ Print these patterns using loops:
 <br></br>
 
 
----
+
 # Number Patterns
 
 [01. View Code](https://github.com/yashchittora/C-Practice-Problems/blob/main/02-Patterns/num-1.c)
@@ -190,6 +190,16 @@ Print these patterns using loops:
     4 5 6 
     7 8 9 10 
     11 12 13 14 15 
+```
+<br></br>
+
+[02. View Code](https://github.com/yashchittora/C-Practice-Problems/blob/main/02-Patterns/num-2.c)
+```text
+2.      1 
+       1 2 
+      1 2 3 
+     1 2 3 4 
+    1 2 3 4 5 
 ```
 <br></br>
 
