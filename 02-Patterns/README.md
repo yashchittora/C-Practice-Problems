@@ -1,6 +1,6 @@
-Pattern Questions
+# Pattern Questions
 
-Print these patterns using loops:
+``` Print these patterns using loops: ```
 
 # Alphabet Patterns
 
@@ -193,9 +193,9 @@ Print these patterns using loops:
 ```
 <br></br>
 
-[02. View Code](https://github.com/yashchittora/C-Practice-Problems/blob/main/02-Patterns/num-2.c)
+[03. View Code](https://github.com/yashchittora/C-Practice-Problems/blob/main/02-Patterns/num-3.c)
 ```text
-2.      1 
+3.      1 
        1 2 
       1 2 3 
      1 2 3 4 
