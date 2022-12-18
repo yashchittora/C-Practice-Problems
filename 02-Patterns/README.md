@@ -2,16 +2,60 @@ Pattern Questions
 
 Print these patterns using loops:
 
+# Alphabet Patterns
 
+[01. View Code](https://github.com/yashchittora/C-Practice-Problems/blob/main/02-Patterns/alpha-1.c)
+```text
+01.  A
+     BC
+     DEF
+     GHIJ
+     KLMNO
+```
+<br></br>
+
+[02. View Code](https://github.com/yashchittora/C-Practice-Problems/blob/main/02-Patterns/alpha-2.c)
+```text
+02.  A
+     AB
+     ABC
+     ABCD
+     ABCDE
+```
+<br></br>
+
+[03. View Code](https://github.com/yashchittora/C-Practice-Problems/blob/main/02-Patterns/alpha-3.c)
+```text
+03.  ABCDE
+     ABCD
+     ABC
+     AB
+     A
+```
+<br></br>
+
+[04. View Code](https://github.com/yashchittora/C-Practice-Problems/blob/main/02-Patterns/alpha-4.c)
+```text
+04.      A
+        AB
+       ABC
+      ABCD
+     ABCDE
+```
+
+
+<br></br>
+
+---
 # Star / Asterisk Patterns
 
 [01. View Code](https://github.com/yashchittora/C-Practice-Problems/blob/main/02-Patterns/star-1.c)
 ```text
-01. *
-    **
-    ***
-    ****
-    *****
+01.  *
+     **
+     ***
+     ****
+     *****
 ```
 
 <br></br>
