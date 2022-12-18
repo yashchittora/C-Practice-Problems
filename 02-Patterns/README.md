@@ -149,6 +149,16 @@ Print these patterns using loops:
 ```
 <br></br>
 
+[09. View Code](https://github.com/yashchittora/C-Practice-Problems/blob/main/02-Patterns/star-9.c)
+```text
+9.   *****
+      ****
+       ***
+        **
+         *
+```
+<br></br>
+
 ---
 # Number Patterns
 
