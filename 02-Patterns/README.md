@@ -177,6 +177,20 @@
 ```
 <br></br>
 
+[12. View Code](https://github.com/yashchittora/C-Practice-Problems/blob/main/02-Patterns/star-12.c)
+```text
+12.      * 
+        * * 
+       * * * 
+      * * * * 
+     * * * * * 
+      * * * * 
+       * * * 
+        * * 
+         * 
+```
+<br></br>
+
 # Number Patterns
 
 [01. View Code](https://github.com/yashchittora/C-Practice-Problems/blob/main/02-Patterns/num-1.c)
@@ -206,6 +220,16 @@
       1 2 3 
      1 2 3 4 
     1 2 3 4 5 
+```
+<br></br>
+
+[04. View Code](https://github.com/yashchittora/C-Practice-Problems/blob/main/02-Patterns/num-4.c)
+```text
+4.  1 2 3 4 5 
+     1 2 3 4 
+      1 2 3 
+       1 2 
+        1 
 ```
 <br></br>
 
